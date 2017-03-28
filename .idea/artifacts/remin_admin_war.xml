@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="remin-admin:war">
+    <output-path>$PROJECT_DIR$/remin-admin/target</output-path>
+    <root id="archive" name="remin-admin.war">
+      <element id="artifact" artifact-name="remin-admin:war exploded" />
+    </root>
+  </artifact>
+</component>

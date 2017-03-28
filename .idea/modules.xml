@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/remin.iml" filepath="$PROJECT_DIR$/remin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/remin-admin/remin-admin.iml" filepath="$PROJECT_DIR$/remin-admin/remin-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/remin-common/remin-common.iml" filepath="$PROJECT_DIR$/remin-common/remin-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/remin-entity/remin-entity.iml" filepath="$PROJECT_DIR$/remin-entity/remin-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/remin-mapper/remin-mapper.iml" filepath="$PROJECT_DIR$/remin-mapper/remin-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/remin-service/remin-service.iml" filepath="$PROJECT_DIR$/remin-service/remin-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/remin-web/remin-web.iml" filepath="$PROJECT_DIR$/remin-web/remin-web.iml" />
+    </modules>
+  </component>
+</project>

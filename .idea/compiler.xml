@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="remin-admin" />
+        <module name="remin-common" />
+        <module name="remin-entity" />
+        <module name="remin-mapper" />
+        <module name="remin-service" />
+        <module name="remin-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="remin" target="1.8" />
+      <module name="remin-admin" target="1.8" />
+      <module name="remin-common" target="1.8" />
+      <module name="remin-entity" target="1.8" />
+      <module name="remin-mapper" target="1.8" />
+      <module name="remin-service" target="1.8" />
+      <module name="remin-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
