@@ -8,9 +8,9 @@
         <outputRelativeToContentRoot value="true" />
         <module name="remin-admin" />
         <module name="remin-common" />
-        <module name="remin-entity" />
         <module name="remin-mapper" />
         <module name="remin-service" />
+        <module name="remin-start" />
         <module name="remin-web" />
       </profile>
     </annotationProcessing>
@@ -21,6 +21,7 @@
       <module name="remin-entity" target="1.8" />
       <module name="remin-mapper" target="1.8" />
       <module name="remin-service" target="1.8" />
+      <module name="remin-start" target="1.8" />
       <module name="remin-web" target="1.8" />
     </bytecodeTargetLevel>
   </component>
